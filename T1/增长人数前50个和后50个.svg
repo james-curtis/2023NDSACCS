@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-06-16T07:00:50.319602</dc:date>
+    <dc:date>2023-06-16T07:03:21.204453</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -42,7 +42,7 @@ z
      <g id="line2d_1">
       <path d="M 89.106136 239.75775 
 L 89.106136 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_1">
       <!-- India -->
@@ -163,7 +163,7 @@ z
      <g id="line2d_2">
       <path d="M 103.864968 239.75775 
 L 103.864968 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_2">
       <!-- China -->
@@ -222,7 +222,7 @@ z
      <g id="line2d_3">
       <path d="M 118.623799 239.75775 
 L 118.623799 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_3">
       <!-- Latin Amer... -->
@@ -373,7 +373,7 @@ z
      <g id="line2d_4">
       <path d="M 133.38263 239.75775 
 L 133.38263 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_4">
       <!-- Nigeria -->
@@ -467,7 +467,7 @@ z
      <g id="line2d_5">
       <path d="M 148.141461 239.75775 
 L 148.141461 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_5">
       <!-- Pakistan -->
@@ -554,7 +554,7 @@ z
      <g id="line2d_6">
       <path d="M 162.900292 239.75775 
 L 162.900292 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_6">
       <!-- Ethiopia -->
@@ -638,7 +638,7 @@ z
      <g id="line2d_7">
       <path d="M 177.659123 239.75775 
 L 177.659123 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_7">
       <!-- Democratic... -->
@@ -705,7 +705,7 @@ z
      <g id="line2d_8">
       <path d="M 192.417955 239.75775 
 L 192.417955 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_8">
       <!-- Northern A... -->
@@ -730,7 +730,7 @@ L 192.417955 27.912
      <g id="line2d_9">
       <path d="M 207.176786 239.75775 
 L 207.176786 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_9">
       <!-- Indonesia -->
@@ -751,7 +751,7 @@ L 207.176786 27.912
      <g id="line2d_10">
       <path d="M 221.935617 239.75775 
 L 221.935617 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_10">
       <!-- United Sta... -->
@@ -826,7 +826,7 @@ z
      <g id="line2d_11">
       <path d="M 236.694448 239.75775 
 L 236.694448 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_11">
       <!-- Egypt -->
@@ -864,7 +864,7 @@ z
      <g id="line2d_12">
       <path d="M 251.453279 239.75775 
 L 251.453279 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_12">
       <!-- Bangladesh -->
@@ -927,7 +927,7 @@ z
      <g id="line2d_13">
       <path d="M 266.21211 239.75775 
 L 266.21211 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_13">
       <!-- Philippine... -->
@@ -952,7 +952,7 @@ L 266.21211 27.912
      <g id="line2d_14">
       <path d="M 280.970942 239.75775 
 L 280.970942 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_14">
       <!-- Tanzania -->
@@ -998,7 +998,7 @@ z
      <g id="line2d_15">
       <path d="M 295.729773 239.75775 
 L 295.729773 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_15">
       <!-- Brazil -->
@@ -1016,7 +1016,7 @@ L 295.729773 27.912
      <g id="line2d_16">
       <path d="M 310.488604 239.75775 
 L 310.488604 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_16">
       <!-- Uganda -->
@@ -1034,7 +1034,7 @@ L 310.488604 27.912
      <g id="line2d_17">
       <path d="M 325.247435 239.75775 
 L 325.247435 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_17">
       <!-- Mexico -->
@@ -1088,7 +1088,7 @@ z
      <g id="line2d_18">
       <path d="M 340.006266 239.75775 
 L 340.006266 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_18">
       <!-- Iran -->
@@ -1104,7 +1104,7 @@ L 340.006266 27.912
      <g id="line2d_19">
       <path d="M 354.765097 239.75775 
 L 354.765097 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_19">
       <!-- Sudan -->
@@ -1142,7 +1142,7 @@ z
      <g id="line2d_20">
       <path d="M 369.523929 239.75775 
 L 369.523929 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_20">
       <!-- Iraq -->
@@ -1186,7 +1186,7 @@ z
      <g id="line2d_21">
       <path d="M 384.28276 239.75775 
 L 384.28276 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_21">
       <!-- Afghanista... -->
@@ -1236,7 +1236,7 @@ z
      <g id="line2d_22">
       <path d="M 399.041591 239.75775 
 L 399.041591 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_22">
       <!-- Turkey -->
@@ -1254,7 +1254,7 @@ L 399.041591 27.912
      <g id="line2d_23">
       <path d="M 413.800422 239.75775 
 L 413.800422 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_23">
       <!-- Kenya -->
@@ -1288,7 +1288,7 @@ z
      <g id="line2d_24">
       <path d="M 428.559253 239.75775 
 L 428.559253 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_24">
       <!-- Angola -->
@@ -1306,7 +1306,7 @@ L 428.559253 27.912
      <g id="line2d_25">
       <path d="M 443.318084 239.75775 
 L 443.318084 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_25">
       <!-- Vietnam -->
@@ -1338,7 +1338,7 @@ z
      <g id="line2d_26">
       <path d="M 458.076916 239.75775 
 L 458.076916 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_26">
       <!-- Mozambique -->
@@ -1388,7 +1388,7 @@ z
      <g id="line2d_27">
       <path d="M 472.835747 239.75775 
 L 472.835747 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_27">
       <!-- Niger -->
@@ -1405,7 +1405,7 @@ L 472.835747 27.912
      <g id="line2d_28">
       <path d="M 487.594578 239.75775 
 L 487.594578 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_28">
       <!-- Algeria -->
@@ -1424,7 +1424,7 @@ L 487.594578 27.912
      <g id="line2d_29">
       <path d="M 502.353409 239.75775 
 L 502.353409 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_29">
       <!-- Europe (UN... -->
@@ -1464,7 +1464,7 @@ z
      <g id="line2d_30">
       <path d="M 517.11224 239.75775 
 L 517.11224 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_30">
       <!-- Yemen -->
@@ -1496,7 +1496,7 @@ z
      <g id="line2d_31">
       <path d="M 531.871071 239.75775 
 L 531.871071 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_31">
       <!-- South Afri... -->
@@ -1521,7 +1521,7 @@ L 531.871071 27.912
      <g id="line2d_32">
       <path d="M 546.629903 239.75775 
 L 546.629903 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_32">
       <!-- Oceania (U... -->
@@ -1569,7 +1569,7 @@ z
      <g id="line2d_33">
       <path d="M 561.388734 239.75775 
 L 561.388734 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_33">
       <!-- Cameroon -->
@@ -1589,7 +1589,7 @@ L 561.388734 27.912
      <g id="line2d_34">
       <path d="M 576.147565 239.75775 
 L 576.147565 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_34">
       <!-- Ghana -->
@@ -1635,7 +1635,7 @@ z
      <g id="line2d_35">
       <path d="M 590.906396 239.75775 
 L 590.906396 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_35">
       <!-- Madagascar -->
@@ -1657,7 +1657,7 @@ L 590.906396 27.912
      <g id="line2d_36">
       <path d="M 605.665227 239.75775 
 L 605.665227 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_36">
       <!-- Colombia -->
@@ -1677,7 +1677,7 @@ L 605.665227 27.912
      <g id="line2d_37">
       <path d="M 620.424058 239.75775 
 L 620.424058 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_37">
       <!-- Cote d'Ivo... -->
@@ -1724,7 +1724,7 @@ z
      <g id="line2d_38">
       <path d="M 635.18289 239.75775 
 L 635.18289 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_38">
       <!-- Mali -->
@@ -1740,7 +1740,7 @@ L 635.18289 27.912
      <g id="line2d_39">
       <path d="M 649.941721 239.75775 
 L 649.941721 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_39">
       <!-- Saudi Arab... -->
@@ -1765,7 +1765,7 @@ L 649.941721 27.912
      <g id="line2d_40">
       <path d="M 664.700552 239.75775 
 L 664.700552 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_40">
       <!-- Burkina Fa... -->
@@ -1805,7 +1805,7 @@ z
      <g id="line2d_41">
       <path d="M 679.459383 239.75775 
 L 679.459383 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_41">
       <!-- Zambia -->
@@ -1838,7 +1838,7 @@ z
      <g id="line2d_42">
       <path d="M 694.218214 239.75775 
 L 694.218214 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_42">
       <!-- Uzbekistan -->
@@ -1860,7 +1860,7 @@ L 694.218214 27.912
      <g id="line2d_43">
       <path d="M 708.977045 239.75775 
 L 708.977045 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_43">
       <!-- Chad -->
@@ -1876,7 +1876,7 @@ L 708.977045 27.912
      <g id="line2d_44">
       <path d="M 723.735877 239.75775 
 L 723.735877 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_44">
       <!-- Somalia -->
@@ -1895,7 +1895,7 @@ L 723.735877 27.912
      <g id="line2d_45">
       <path d="M 738.494708 239.75775 
 L 738.494708 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_45">
       <!-- Malawi -->
@@ -1934,7 +1934,7 @@ z
      <g id="line2d_46">
       <path d="M 753.253539 239.75775 
 L 753.253539 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_46">
       <!-- Malaysia -->
@@ -1954,7 +1954,7 @@ L 753.253539 27.912
      <g id="line2d_47">
       <path d="M 768.01237 239.75775 
 L 768.01237 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_47">
       <!-- Peru -->
@@ -1970,7 +1970,7 @@ L 768.01237 27.912
      <g id="line2d_48">
       <path d="M 782.771201 239.75775 
 L 782.771201 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_48">
       <!-- Morocco -->
@@ -1989,7 +1989,7 @@ L 782.771201 27.912
      <g id="line2d_49">
       <path d="M 797.530032 239.75775 
 L 797.530032 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_49">
       <!-- Jordan -->
@@ -2026,7 +2026,7 @@ z
      <g id="line2d_50">
       <path d="M 812.288864 239.75775 
 L 812.288864 27.912 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_50">
       <!-- Myanmar -->
@@ -2183,7 +2183,7 @@ z
      <g id="line2d_51">
       <path d="M 52.947 235.411653 
 L 848.448 235.411653 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_52">
       <!-- 0.00 -->
@@ -2228,7 +2228,7 @@ z
      <g id="line2d_52">
       <path d="M 52.947 202.420667 
 L 848.448 202.420667 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_53">
       <!-- 0.25 -->
@@ -2299,7 +2299,7 @@ z
      <g id="line2d_53">
       <path d="M 52.947 169.429681 
 L 848.448 169.429681 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_54">
       <!-- 0.50 -->
@@ -2315,7 +2315,7 @@ L 848.448 169.429681
      <g id="line2d_54">
       <path d="M 52.947 136.438695 
 L 848.448 136.438695 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_55">
       <!-- 0.75 -->
@@ -2343,7 +2343,7 @@ z
      <g id="line2d_55">
       <path d="M 52.947 103.447709 
 L 848.448 103.447709 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_56">
       <!-- 1.00 -->
@@ -2371,7 +2371,7 @@ z
      <g id="line2d_56">
       <path d="M 52.947 70.456723 
 L 848.448 70.456723 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_57">
       <!-- 1.25 -->
@@ -2387,7 +2387,7 @@ L 848.448 70.456723
      <g id="line2d_57">
       <path d="M 52.947 37.465737 
 L 848.448 37.465737 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_58">
       <!-- 1.50 -->
@@ -2794,7 +2794,7 @@ L 768.01237 229.819362
 L 782.771201 229.904956 
 L 797.530032 230.082543 
 L 812.288864 230.128398 
-" clip-path="url(#p0487a56956)" style="fill: none; stroke: #4c72b0; stroke-width: 1.5; stroke-linecap: round"/>
+" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #4c72b0; stroke-width: 1.5; stroke-linecap: round"/>
    </g>
    <g id="patch_3">
     <path d="M 52.947 239.75775 
@@ -2831,7 +2831,7 @@ z
      <g id="line2d_59">
       <path d="M 89.106136 592.02675 
 L 89.106136 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_61">
       <!-- San Marino -->
@@ -2853,7 +2853,7 @@ L 89.106136 380.181
      <g id="line2d_60">
       <path d="M 103.864968 592.02675 
 L 103.864968 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_62">
       <!-- Gibraltar -->
@@ -2874,7 +2874,7 @@ L 103.864968 380.181
      <g id="line2d_61">
       <path d="M 118.623799 592.02675 
 L 118.623799 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_63">
       <!-- Bermuda -->
@@ -2893,7 +2893,7 @@ L 118.623799 380.181
      <g id="line2d_62">
       <path d="M 133.38263 592.02675 
 L 133.38263 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_64">
       <!-- Falkland I... -->
@@ -2918,7 +2918,7 @@ L 133.38263 380.181
      <g id="line2d_63">
       <path d="M 148.141461 592.02675 
 L 148.141461 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_65">
       <!-- Tuvalu -->
@@ -2936,7 +2936,7 @@ L 148.141461 380.181
      <g id="line2d_64">
       <path d="M 162.900292 592.02675 
 L 162.900292 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_66">
       <!-- Tokelau -->
@@ -2955,7 +2955,7 @@ L 162.900292 380.181
      <g id="line2d_65">
       <path d="M 177.659123 592.02675 
 L 177.659123 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_67">
       <!-- Niue -->
@@ -2971,7 +2971,7 @@ L 177.659123 380.181
      <g id="line2d_66">
       <path d="M 192.417955 592.02675 
 L 192.417955 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_68">
       <!-- Saint Hele... -->
@@ -3013,7 +3013,7 @@ z
      <g id="line2d_67">
       <path d="M 207.176786 592.02675 
 L 207.176786 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_69">
       <!-- Saint Kitt... -->
@@ -3038,7 +3038,7 @@ L 207.176786 380.181
      <g id="line2d_68">
       <path d="M 221.935617 592.02675 
 L 221.935617 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_70">
       <!-- Greenland -->
@@ -3059,7 +3059,7 @@ L 221.935617 380.181
      <g id="line2d_69">
       <path d="M 236.694448 592.02675 
 L 236.694448 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_71">
       <!-- Isle of Ma... -->
@@ -3084,7 +3084,7 @@ L 236.694448 380.181
      <g id="line2d_70">
       <path d="M 251.453279 592.02675 
 L 251.453279 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_72">
       <!-- Saint Pier... -->
@@ -3109,7 +3109,7 @@ L 251.453279 380.181
      <g id="line2d_71">
       <path d="M 266.21211 592.02675 
 L 266.21211 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_73">
       <!-- Palau -->
@@ -3126,7 +3126,7 @@ L 266.21211 380.181
      <g id="line2d_72">
       <path d="M 280.970942 592.02675 
 L 280.970942 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_74">
       <!-- Montserrat -->
@@ -3148,7 +3148,7 @@ L 280.970942 380.181
      <g id="line2d_73">
       <path d="M 295.729773 592.02675 
 L 295.729773 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_75">
       <!-- Cook Islan... -->
@@ -3173,7 +3173,7 @@ L 295.729773 380.181
      <g id="line2d_74">
       <path d="M 310.488604 592.02675 
 L 310.488604 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_76">
       <!-- Wallis and... -->
@@ -3219,7 +3219,7 @@ z
      <g id="line2d_75">
       <path d="M 325.247435 592.02675 
 L 325.247435 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_77">
       <!-- Tonga -->
@@ -3236,7 +3236,7 @@ L 325.247435 380.181
      <g id="line2d_76">
       <path d="M 340.006266 592.02675 
 L 340.006266 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_78">
       <!-- Northern M... -->
@@ -3261,7 +3261,7 @@ L 340.006266 380.181
      <g id="line2d_77">
       <path d="M 354.765097 592.02675 
 L 354.765097 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_79">
       <!-- Montenegro -->
@@ -3283,7 +3283,7 @@ L 354.765097 380.181
      <g id="line2d_78">
       <path d="M 369.523929 592.02675 
 L 369.523929 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_80">
       <!-- Saint Vinc... -->
@@ -3308,7 +3308,7 @@ L 369.523929 380.181
      <g id="line2d_79">
       <path d="M 384.28276 592.02675 
 L 384.28276 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_81">
       <!-- Saint Mart... -->
@@ -3333,7 +3333,7 @@ L 384.28276 380.181
      <g id="line2d_80">
       <path d="M 399.041591 592.02675 
 L 399.041591 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_82">
       <!-- United Sta... -->
@@ -3358,7 +3358,7 @@ L 399.041591 380.181
      <g id="line2d_81">
       <path d="M 413.800422 592.02675 
 L 413.800422 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_83">
       <!-- Guadeloupe -->
@@ -3380,7 +3380,7 @@ L 413.800422 380.181
      <g id="line2d_82">
       <path d="M 428.559253 592.02675 
 L 428.559253 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_84">
       <!-- American S... -->
@@ -3405,7 +3405,7 @@ L 428.559253 380.181
      <g id="line2d_83">
       <path d="M 443.318084 592.02675 
 L 443.318084 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_85">
       <!-- Marshall I... -->
@@ -3430,7 +3430,7 @@ L 443.318084 380.181
      <g id="line2d_84">
       <path d="M 458.076916 592.02675 
 L 458.076916 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_86">
       <!-- Martinique -->
@@ -3452,7 +3452,7 @@ L 458.076916 380.181
      <g id="line2d_85">
       <path d="M 472.835747 592.02675 
 L 472.835747 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_87">
       <!-- Cuba -->
@@ -3468,7 +3468,7 @@ L 472.835747 380.181
      <g id="line2d_86">
       <path d="M 487.594578 592.02675 
 L 487.594578 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_88">
       <!-- Albania -->
@@ -3487,7 +3487,7 @@ L 487.594578 380.181
      <g id="line2d_87">
       <path d="M 502.353409 592.02675 
 L 502.353409 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_89">
       <!-- Georgia -->
@@ -3506,7 +3506,7 @@ L 502.353409 380.181
      <g id="line2d_88">
       <path d="M 517.11224 592.02675 
 L 517.11224 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_90">
       <!-- Belarus -->
@@ -3525,7 +3525,7 @@ L 517.11224 380.181
      <g id="line2d_89">
       <path d="M 531.871071 592.02675 
 L 531.871071 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_91">
       <!-- Kosovo -->
@@ -3543,7 +3543,7 @@ L 531.871071 380.181
      <g id="line2d_90">
       <path d="M 546.629903 592.02675 
 L 546.629903 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_92">
       <!-- Armenia -->
@@ -3562,7 +3562,7 @@ L 546.629903 380.181
      <g id="line2d_91">
       <path d="M 561.388734 592.02675 
 L 561.388734 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_93">
       <!-- Latvia -->
@@ -3580,7 +3580,7 @@ L 561.388734 380.181
      <g id="line2d_92">
       <path d="M 576.147565 592.02675 
 L 576.147565 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_94">
       <!-- Hungary -->
@@ -3599,7 +3599,7 @@ L 576.147565 380.181
      <g id="line2d_93">
       <path d="M 590.906396 592.02675 
 L 590.906396 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_95">
       <!-- Portugal -->
@@ -3619,7 +3619,7 @@ L 590.906396 380.181
      <g id="line2d_94">
       <path d="M 605.665227 592.02675 
 L 605.665227 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_96">
       <!-- Croatia -->
@@ -3638,7 +3638,7 @@ L 605.665227 380.181
      <g id="line2d_95">
       <path d="M 620.424058 592.02675 
 L 620.424058 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_97">
       <!-- Poland -->
@@ -3656,7 +3656,7 @@ L 620.424058 380.181
      <g id="line2d_96">
       <path d="M 635.18289 592.02675 
 L 635.18289 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_98">
       <!-- Lithuania -->
@@ -3677,7 +3677,7 @@ L 635.18289 380.181
      <g id="line2d_97">
       <path d="M 649.941721 592.02675 
 L 649.941721 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_99">
       <!-- Serbia -->
@@ -3695,7 +3695,7 @@ L 649.941721 380.181
      <g id="line2d_98">
       <path d="M 664.700552 592.02675 
 L 664.700552 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_100">
       <!-- Puerto Ric... -->
@@ -3746,7 +3746,7 @@ z
      <g id="line2d_99">
       <path d="M 679.459383 592.02675 
 L 679.459383 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_101">
       <!-- Bosnia and... -->
@@ -3771,7 +3771,7 @@ L 679.459383 380.181
      <g id="line2d_100">
       <path d="M 694.218214 592.02675 
 L 694.218214 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_102">
       <!-- Moldova -->
@@ -3790,7 +3790,7 @@ L 694.218214 380.181
      <g id="line2d_101">
       <path d="M 708.977045 592.02675 
 L 708.977045 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_103">
       <!-- Greece -->
@@ -3808,7 +3808,7 @@ L 708.977045 380.181
      <g id="line2d_102">
       <path d="M 723.735877 592.02675 
 L 723.735877 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_104">
       <!-- Bulgaria -->
@@ -3828,7 +3828,7 @@ L 723.735877 380.181
      <g id="line2d_103">
       <path d="M 738.494708 592.02675 
 L 738.494708 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_105">
       <!-- Italy -->
@@ -3845,7 +3845,7 @@ L 738.494708 380.181
      <g id="line2d_104">
       <path d="M 753.253539 592.02675 
 L 753.253539 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_106">
       <!-- Romania -->
@@ -3864,7 +3864,7 @@ L 753.253539 380.181
      <g id="line2d_105">
       <path d="M 768.01237 592.02675 
 L 768.01237 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_107">
       <!-- Venezuela -->
@@ -3885,7 +3885,7 @@ L 768.01237 380.181
      <g id="line2d_106">
       <path d="M 782.771201 592.02675 
 L 782.771201 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_108">
       <!-- Syria -->
@@ -3902,7 +3902,7 @@ L 782.771201 380.181
      <g id="line2d_107">
       <path d="M 797.530032 592.02675 
 L 797.530032 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_109">
       <!-- Ukraine -->
@@ -3921,7 +3921,7 @@ L 797.530032 380.181
      <g id="line2d_108">
       <path d="M 812.288864 592.02675 
 L 812.288864 380.181 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_110">
       <!-- Japan -->
@@ -3947,7 +3947,7 @@ L 812.288864 380.181
      <g id="line2d_109">
       <path d="M 52.947 588.367518 
 L 848.448 588.367518 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_112">
       <!-- -3.5 -->
@@ -4001,7 +4001,7 @@ z
      <g id="line2d_110">
       <path d="M 52.947 560.012368 
 L 848.448 560.012368 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_113">
       <!-- -3.0 -->
@@ -4017,7 +4017,7 @@ L 848.448 560.012368
      <g id="line2d_111">
       <path d="M 52.947 531.657218 
 L 848.448 531.657218 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_114">
       <!-- -2.5 -->
@@ -4033,7 +4033,7 @@ L 848.448 531.657218
      <g id="line2d_112">
       <path d="M 52.947 503.302067 
 L 848.448 503.302067 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_115">
       <!-- -2.0 -->
@@ -4049,7 +4049,7 @@ L 848.448 503.302067
      <g id="line2d_113">
       <path d="M 52.947 474.946917 
 L 848.448 474.946917 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_116">
       <!-- -1.5 -->
@@ -4065,7 +4065,7 @@ L 848.448 474.946917
      <g id="line2d_114">
       <path d="M 52.947 446.591767 
 L 848.448 446.591767 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_117">
       <!-- -1.0 -->
@@ -4081,7 +4081,7 @@ L 848.448 446.591767
      <g id="line2d_115">
       <path d="M 52.947 418.236617 
 L 848.448 418.236617 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_118">
       <!-- -0.5 -->
@@ -4097,7 +4097,7 @@ L 848.448 418.236617
      <g id="line2d_116">
       <path d="M 52.947 389.881467 
 L 848.448 389.881467 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_119">
       <!-- 0.0 -->
@@ -4208,7 +4208,7 @@ L 768.01237 440.710682
 L 782.771201 469.637019 
 L 797.530032 502.43508 
 L 812.288864 582.397398 
-" clip-path="url(#pf139048d0f)" style="fill: none; stroke: #4c72b0; stroke-width: 1.5; stroke-linecap: round"/>
+" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #4c72b0; stroke-width: 1.5; stroke-linecap: round"/>
    </g>
    <g id="patch_8">
     <path d="M 52.947 592.02675 
@@ -4233,10 +4233,10 @@ L 848.448 380.181
   </g>
  </g>
  <defs>
-  <clipPath id="p0487a56956">
+  <clipPath id="pdf621df4b3">
    <rect x="52.947" y="27.912" width="795.501" height="211.84575"/>
   </clipPath>
-  <clipPath id="pf139048d0f">
+  <clipPath id="p8c000bac45">
    <rect x="52.947" y="380.181" width="795.501" height="211.84575"/>
   </clipPath>
  </defs>
