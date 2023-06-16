@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-06-16T07:03:21.204453</dc:date>
+    <dc:date>2023-06-16T09:11:27.357081</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -30,8 +30,8 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 52.947 239.75775 
-L 848.448 239.75775 
+    <path d="M 52.947 239.84775 
+L 848.448 239.84775 
 L 848.448 27.912 
 L 52.947 27.912 
 z
@@ -40,13 +40,13 @@ z
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1">
-      <path d="M 89.106136 239.75775 
+      <path d="M 89.106136 239.84775 
 L 89.106136 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_1">
       <!-- India -->
-      <g style="fill: #262626" transform="translate(92.818636 282.25775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(92.818636 282.34775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-49" d="M 1850 125 
 L 1275 125 
@@ -161,13 +161,13 @@ z
     </g>
     <g id="xtick_2">
      <g id="line2d_2">
-      <path d="M 103.864968 239.75775 
+      <path d="M 103.864968 239.84775 
 L 103.864968 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_2">
       <!-- China -->
-      <g style="fill: #262626" transform="translate(107.577468 282.25775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(107.577468 282.34775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-43" d="M 2975 1825 
 Q 2950 875 2575 475 
@@ -220,164 +220,13 @@ z
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
-      <path d="M 118.623799 239.75775 
+      <path d="M 118.623799 239.84775 
 L 118.623799 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_3">
-      <!-- Latin Amer... -->
-      <g style="fill: #262626" transform="translate(122.336299 335.05775) rotate(-90) scale(0.132 -0.132)">
-       <defs>
-        <path id="SimHei-4c" d="M 2900 125 
-L 300 125 
-L 300 4400 
-L 875 4400 
-L 875 600 
-L 2900 600 
-L 2900 125 
-z
-" transform="scale(0.015625)"/>
-        <path id="SimHei-74" d="M 2750 200 
-Q 2625 150 2462 112 
-Q 2300 75 2025 75 
-Q 1575 75 1300 325 
-Q 1025 575 1025 1025 
-L 1025 2525 
-L 175 2525 
-L 175 2925 
-L 1025 2925 
-L 1025 3900 
-L 1525 3900 
-L 1525 2925 
-L 2550 2925 
-L 2550 2525 
-L 1525 2525 
-L 1525 1000 
-Q 1525 800 1625 662 
-Q 1725 525 2000 525 
-Q 2275 525 2450 575 
-Q 2625 625 2750 700 
-L 2750 200 
-z
-" transform="scale(0.015625)"/>
-        <path id="SimHei-20" transform="scale(0.015625)"/>
-        <path id="SimHei-41" d="M 3075 125 
-L 2475 125 
-L 2125 1450 
-L 1025 1450 
-L 675 125 
-L 75 125 
-L 1325 4450 
-L 1825 4450 
-L 3075 125 
-z
-M 2000 1925 
-L 1600 3450 
-L 1550 3450 
-L 1150 1925 
-L 2000 1925 
-z
-" transform="scale(0.015625)"/>
-        <path id="SimHei-6d" d="M 3050 125 
-L 2550 125 
-L 2550 2150 
-Q 2550 2300 2500 2400 
-Q 2450 2500 2300 2500 
-Q 2125 2500 1975 2312 
-Q 1825 2125 1825 1825 
-L 1825 125 
-L 1325 125 
-L 1325 2150 
-Q 1325 2300 1275 2400 
-Q 1225 2500 1075 2500 
-Q 900 2500 750 2312 
-Q 600 2125 600 1825 
-L 600 125 
-L 100 125 
-L 100 2925 
-L 600 2925 
-L 600 2550 
-Q 725 2750 900 2862 
-Q 1075 2975 1275 2975 
-Q 1475 2975 1612 2862 
-Q 1750 2750 1800 2550 
-Q 1925 2750 2087 2862 
-Q 2250 2975 2450 2975 
-Q 2750 2975 2900 2812 
-Q 3050 2650 3050 2350 
-L 3050 125 
-z
-" transform="scale(0.015625)"/>
-        <path id="SimHei-65" d="M 2850 1075 
-Q 2800 625 2450 350 
-Q 2100 75 1625 75 
-Q 1025 75 637 462 
-Q 250 850 250 1525 
-Q 250 2200 637 2587 
-Q 1025 2975 1625 2975 
-Q 2150 2975 2487 2637 
-Q 2825 2300 2825 1525 
-L 800 1525 
-Q 800 975 1037 750 
-Q 1275 525 1625 525 
-Q 1900 525 2075 662 
-Q 2250 800 2300 1075 
-L 2850 1075 
-z
-M 2250 1925 
-Q 2200 2275 2025 2412 
-Q 1850 2550 1575 2550 
-Q 1325 2550 1125 2412 
-Q 925 2275 825 1925 
-L 2250 1925 
-z
-" transform="scale(0.015625)"/>
-        <path id="SimHei-72" d="M 2500 2425 
-Q 2025 2500 1700 2287 
-Q 1375 2075 1150 1550 
-L 1150 125 
-L 650 125 
-L 650 2925 
-L 1150 2925 
-L 1150 2200 
-Q 1375 2600 1712 2787 
-Q 2050 2975 2500 2975 
-L 2500 2425 
-z
-" transform="scale(0.015625)"/>
-        <path id="SimHei-2e" d="M 1075 125 
-L 500 125 
-L 500 675 
-L 1075 675 
-L 1075 125 
-z
-" transform="scale(0.015625)"/>
-       </defs>
-       <use xlink:href="#SimHei-4c"/>
-       <use xlink:href="#SimHei-61" x="50"/>
-       <use xlink:href="#SimHei-74" x="100"/>
-       <use xlink:href="#SimHei-69" x="150"/>
-       <use xlink:href="#SimHei-6e" x="200"/>
-       <use xlink:href="#SimHei-20" x="250"/>
-       <use xlink:href="#SimHei-41" x="300"/>
-       <use xlink:href="#SimHei-6d" x="350"/>
-       <use xlink:href="#SimHei-65" x="400"/>
-       <use xlink:href="#SimHei-72" x="450"/>
-       <use xlink:href="#SimHei-2e" x="500"/>
-       <use xlink:href="#SimHei-2e" x="550"/>
-       <use xlink:href="#SimHei-2e" x="600"/>
-      </g>
-     </g>
-    </g>
-    <g id="xtick_4">
-     <g id="line2d_4">
-      <path d="M 133.38263 239.75775 
-L 133.38263 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
-     </g>
-     <g id="text_4">
       <!-- Nigeria -->
-      <g style="fill: #262626" transform="translate(137.09513 295.45775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(122.336299 295.54775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-4e" d="M 2850 125 
 L 2225 125 
@@ -452,6 +301,43 @@ Q 2025 -450 2212 -337
 Q 2400 -225 2400 -75 
 z
 " transform="scale(0.015625)"/>
+        <path id="SimHei-65" d="M 2850 1075 
+Q 2800 625 2450 350 
+Q 2100 75 1625 75 
+Q 1025 75 637 462 
+Q 250 850 250 1525 
+Q 250 2200 637 2587 
+Q 1025 2975 1625 2975 
+Q 2150 2975 2487 2637 
+Q 2825 2300 2825 1525 
+L 800 1525 
+Q 800 975 1037 750 
+Q 1275 525 1625 525 
+Q 1900 525 2075 662 
+Q 2250 800 2300 1075 
+L 2850 1075 
+z
+M 2250 1925 
+Q 2200 2275 2025 2412 
+Q 1850 2550 1575 2550 
+Q 1325 2550 1125 2412 
+Q 925 2275 825 1925 
+L 2250 1925 
+z
+" transform="scale(0.015625)"/>
+        <path id="SimHei-72" d="M 2500 2425 
+Q 2025 2500 1700 2287 
+Q 1375 2075 1150 1550 
+L 1150 125 
+L 650 125 
+L 650 2925 
+L 1150 2925 
+L 1150 2200 
+Q 1375 2600 1712 2787 
+Q 2050 2975 2500 2975 
+L 2500 2425 
+z
+" transform="scale(0.015625)"/>
        </defs>
        <use xlink:href="#SimHei-4e"/>
        <use xlink:href="#SimHei-69" x="50"/>
@@ -463,15 +349,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_5">
-     <g id="line2d_5">
-      <path d="M 148.141461 239.75775 
-L 148.141461 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <path d="M 133.38263 239.84775 
+L 133.38263 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_5">
+     <g id="text_4">
       <!-- Pakistan -->
-      <g style="fill: #262626" transform="translate(151.853961 302.05775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(137.09513 302.14775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-50" d="M 2950 3100 
 Q 2950 2500 2600 2150 
@@ -538,6 +424,29 @@ Q 2300 1650 2525 1437
 Q 2750 1225 2750 900 
 z
 " transform="scale(0.015625)"/>
+        <path id="SimHei-74" d="M 2750 200 
+Q 2625 150 2462 112 
+Q 2300 75 2025 75 
+Q 1575 75 1300 325 
+Q 1025 575 1025 1025 
+L 1025 2525 
+L 175 2525 
+L 175 2925 
+L 1025 2925 
+L 1025 3900 
+L 1525 3900 
+L 1525 2925 
+L 2550 2925 
+L 2550 2525 
+L 1525 2525 
+L 1525 1000 
+Q 1525 800 1625 662 
+Q 1725 525 2000 525 
+Q 2275 525 2450 575 
+Q 2625 625 2750 700 
+L 2750 200 
+z
+" transform="scale(0.015625)"/>
        </defs>
        <use xlink:href="#SimHei-50"/>
        <use xlink:href="#SimHei-61" x="50"/>
@@ -550,15 +459,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_6">
-     <g id="line2d_6">
-      <path d="M 162.900292 239.75775 
-L 162.900292 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <path d="M 148.141461 239.84775 
+L 148.141461 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_6">
+     <g id="text_5">
       <!-- Ethiopia -->
-      <g style="fill: #262626" transform="translate(166.612792 302.05775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(151.853961 302.14775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-45" d="M 2900 125 
 L 350 125 
@@ -634,15 +543,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_7">
-     <g id="line2d_7">
-      <path d="M 177.659123 239.75775 
-L 177.659123 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <path d="M 162.900292 239.84775 
+L 162.900292 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_7">
+     <g id="text_6">
       <!-- Democratic... -->
-      <g style="fill: #262626" transform="translate(181.371623 335.05775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(166.612792 335.14775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-44" d="M 2925 2250 
 Q 2925 1100 2437 612 
@@ -661,6 +570,36 @@ L 850 600
 L 1125 600 
 Q 1725 600 2025 962 
 Q 2325 1325 2325 2250 
+z
+" transform="scale(0.015625)"/>
+        <path id="SimHei-6d" d="M 3050 125 
+L 2550 125 
+L 2550 2150 
+Q 2550 2300 2500 2400 
+Q 2450 2500 2300 2500 
+Q 2125 2500 1975 2312 
+Q 1825 2125 1825 1825 
+L 1825 125 
+L 1325 125 
+L 1325 2150 
+Q 1325 2300 1275 2400 
+Q 1225 2500 1075 2500 
+Q 900 2500 750 2312 
+Q 600 2125 600 1825 
+L 600 125 
+L 100 125 
+L 100 2925 
+L 600 2925 
+L 600 2550 
+Q 725 2750 900 2862 
+Q 1075 2975 1275 2975 
+Q 1475 2975 1612 2862 
+Q 1750 2750 1800 2550 
+Q 1925 2750 2087 2862 
+Q 2250 2975 2450 2975 
+Q 2750 2975 2900 2812 
+Q 3050 2650 3050 2350 
+L 3050 125 
 z
 " transform="scale(0.015625)"/>
         <path id="SimHei-63" d="M 2850 1250 
@@ -684,6 +623,13 @@ Q 2300 875 2300 1250
 L 2850 1250 
 z
 " transform="scale(0.015625)"/>
+        <path id="SimHei-2e" d="M 1075 125 
+L 500 125 
+L 500 675 
+L 1075 675 
+L 1075 125 
+z
+" transform="scale(0.015625)"/>
        </defs>
        <use xlink:href="#SimHei-44"/>
        <use xlink:href="#SimHei-65" x="50"/>
@@ -701,40 +647,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_8">
-     <g id="line2d_8">
-      <path d="M 192.417955 239.75775 
-L 192.417955 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <path d="M 177.659123 239.84775 
+L 177.659123 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_8">
-      <!-- Northern A... -->
-      <g style="fill: #262626" transform="translate(196.130455 335.05775) rotate(-90) scale(0.132 -0.132)">
-       <use xlink:href="#SimHei-4e"/>
-       <use xlink:href="#SimHei-6f" x="50"/>
-       <use xlink:href="#SimHei-72" x="100"/>
-       <use xlink:href="#SimHei-74" x="150"/>
-       <use xlink:href="#SimHei-68" x="200"/>
-       <use xlink:href="#SimHei-65" x="250"/>
-       <use xlink:href="#SimHei-72" x="300"/>
-       <use xlink:href="#SimHei-6e" x="350"/>
-       <use xlink:href="#SimHei-20" x="400"/>
-       <use xlink:href="#SimHei-41" x="450"/>
-       <use xlink:href="#SimHei-2e" x="500"/>
-       <use xlink:href="#SimHei-2e" x="550"/>
-       <use xlink:href="#SimHei-2e" x="600"/>
-      </g>
-     </g>
-    </g>
-    <g id="xtick_9">
-     <g id="line2d_9">
-      <path d="M 207.176786 239.75775 
-L 207.176786 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
-     </g>
-     <g id="text_9">
+     <g id="text_7">
       <!-- Indonesia -->
-      <g style="fill: #262626" transform="translate(210.889286 308.65775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(181.371623 308.74775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-49"/>
        <use xlink:href="#SimHei-6e" x="50"/>
        <use xlink:href="#SimHei-64" x="100"/>
@@ -747,15 +668,15 @@ L 207.176786 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_10">
-     <g id="line2d_10">
-      <path d="M 221.935617 239.75775 
-L 221.935617 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <path d="M 192.417955 239.84775 
+L 192.417955 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_10">
+     <g id="text_8">
       <!-- United Sta... -->
-      <g style="fill: #262626" transform="translate(225.648117 335.05775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(196.130455 335.14775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-55" d="M 2875 1375 
 Q 2875 775 2562 425 
@@ -774,6 +695,7 @@ L 2875 4400
 L 2875 1375 
 z
 " transform="scale(0.015625)"/>
+        <path id="SimHei-20" transform="scale(0.015625)"/>
         <path id="SimHei-53" d="M 2900 1325 
 Q 2900 750 2537 412 
 Q 2175 75 1550 75 
@@ -822,15 +744,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_11">
-     <g id="line2d_11">
-      <path d="M 236.694448 239.75775 
-L 236.694448 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <path d="M 207.176786 239.84775 
+L 207.176786 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_11">
+     <g id="text_9">
       <!-- Egypt -->
-      <g style="fill: #262626" transform="translate(240.406948 282.25775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(210.889286 282.34775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-79" d="M 2900 2925 
 L 1750 -100 
@@ -860,15 +782,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_12">
-     <g id="line2d_12">
-      <path d="M 251.453279 239.75775 
-L 251.453279 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_10">
+     <g id="line2d_10">
+      <path d="M 221.935617 239.84775 
+L 221.935617 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_12">
+     <g id="text_10">
       <!-- Bangladesh -->
-      <g style="fill: #262626" transform="translate(255.165779 315.25775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(225.648117 315.34775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-42" d="M 2950 1400 
 Q 2950 675 2550 400 
@@ -923,15 +845,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_13">
-     <g id="line2d_13">
-      <path d="M 266.21211 239.75775 
-L 266.21211 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_11">
+     <g id="line2d_11">
+      <path d="M 236.694448 239.84775 
+L 236.694448 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_13">
+     <g id="text_11">
       <!-- Philippine... -->
-      <g style="fill: #262626" transform="translate(269.92461 335.05775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(240.406948 335.14775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-50"/>
        <use xlink:href="#SimHei-68" x="50"/>
        <use xlink:href="#SimHei-69" x="100"/>
@@ -948,15 +870,15 @@ L 266.21211 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_14">
-     <g id="line2d_14">
-      <path d="M 280.970942 239.75775 
-L 280.970942 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_12">
+     <g id="line2d_12">
+      <path d="M 251.453279 239.84775 
+L 251.453279 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_14">
+     <g id="text_12">
       <!-- Tanzania -->
-      <g style="fill: #262626" transform="translate(284.683442 302.05775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(255.165779 302.14775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-54" d="M 2850 3925 
 L 1850 3925 
@@ -994,15 +916,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_15">
-     <g id="line2d_15">
-      <path d="M 295.729773 239.75775 
-L 295.729773 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_13">
+     <g id="line2d_13">
+      <path d="M 266.21211 239.84775 
+L 266.21211 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_15">
+     <g id="text_13">
       <!-- Brazil -->
-      <g style="fill: #262626" transform="translate(299.442273 288.85775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(269.92461 288.94775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-42"/>
        <use xlink:href="#SimHei-72" x="50"/>
        <use xlink:href="#SimHei-61" x="100"/>
@@ -1012,15 +934,15 @@ L 295.729773 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_16">
-     <g id="line2d_16">
-      <path d="M 310.488604 239.75775 
-L 310.488604 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_14">
+     <g id="line2d_14">
+      <path d="M 280.970942 239.84775 
+L 280.970942 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_16">
+     <g id="text_14">
       <!-- Uganda -->
-      <g style="fill: #262626" transform="translate(314.201104 288.85775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(284.683442 288.94775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-55"/>
        <use xlink:href="#SimHei-67" x="50"/>
        <use xlink:href="#SimHei-61" x="100"/>
@@ -1030,15 +952,15 @@ L 310.488604 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_17">
-     <g id="line2d_17">
-      <path d="M 325.247435 239.75775 
-L 325.247435 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_15">
+     <g id="line2d_15">
+      <path d="M 295.729773 239.84775 
+L 295.729773 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_17">
+     <g id="text_15">
       <!-- Mexico -->
-      <g style="fill: #262626" transform="translate(328.959935 288.85775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(299.442273 288.94775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-4d" d="M 2925 125 
 L 2425 125 
@@ -1084,15 +1006,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_18">
-     <g id="line2d_18">
-      <path d="M 340.006266 239.75775 
-L 340.006266 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_16">
+     <g id="line2d_16">
+      <path d="M 310.488604 239.84775 
+L 310.488604 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_18">
+     <g id="text_16">
       <!-- Iran -->
-      <g style="fill: #262626" transform="translate(343.718766 275.65775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(314.201104 275.74775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-49"/>
        <use xlink:href="#SimHei-72" x="50"/>
        <use xlink:href="#SimHei-61" x="100"/>
@@ -1100,15 +1022,15 @@ L 340.006266 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_19">
-     <g id="line2d_19">
-      <path d="M 354.765097 239.75775 
-L 354.765097 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_17">
+     <g id="line2d_17">
+      <path d="M 325.247435 239.84775 
+L 325.247435 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_19">
+     <g id="text_17">
       <!-- Sudan -->
-      <g style="fill: #262626" transform="translate(358.477597 282.25775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(328.959935 282.34775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-75" d="M 2800 125 
 L 2300 125 
@@ -1138,15 +1060,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_20">
-     <g id="line2d_20">
-      <path d="M 369.523929 239.75775 
-L 369.523929 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_18">
+     <g id="line2d_18">
+      <path d="M 340.006266 239.84775 
+L 340.006266 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_20">
+     <g id="text_18">
       <!-- Iraq -->
-      <g style="fill: #262626" transform="translate(373.236429 275.65775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(343.718766 275.74775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-71" d="M 2750 -800 
 L 2250 -800 
@@ -1182,16 +1104,33 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_21">
-     <g id="line2d_21">
-      <path d="M 384.28276 239.75775 
-L 384.28276 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_19">
+     <g id="line2d_19">
+      <path d="M 354.765097 239.84775 
+L 354.765097 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_21">
+     <g id="text_19">
       <!-- Afghanista... -->
-      <g style="fill: #262626" transform="translate(388.046822 335.05775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(358.52916 335.14775) rotate(-90) scale(0.132 -0.132)">
        <defs>
+        <path id="SimHei-41" d="M 3075 125 
+L 2475 125 
+L 2125 1450 
+L 1025 1450 
+L 675 125 
+L 75 125 
+L 1325 4450 
+L 1825 4450 
+L 3075 125 
+z
+M 2000 1925 
+L 1600 3450 
+L 1550 3450 
+L 1150 1925 
+L 2000 1925 
+z
+" transform="scale(0.015625)"/>
         <path id="SimHei-66" d="M 2850 3825 
 Q 2725 3900 2550 3950 
 Q 2375 4000 2100 4000 
@@ -1232,15 +1171,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_22">
-     <g id="line2d_22">
-      <path d="M 399.041591 239.75775 
-L 399.041591 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_20">
+     <g id="line2d_20">
+      <path d="M 369.523929 239.84775 
+L 369.523929 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_22">
+     <g id="text_20">
       <!-- Turkey -->
-      <g style="fill: #262626" transform="translate(402.754091 288.85775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(373.236429 288.94775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-54"/>
        <use xlink:href="#SimHei-75" x="50"/>
        <use xlink:href="#SimHei-72" x="100"/>
@@ -1250,15 +1189,15 @@ L 399.041591 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_23">
-     <g id="line2d_23">
-      <path d="M 413.800422 239.75775 
-L 413.800422 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_21">
+     <g id="line2d_21">
+      <path d="M 384.28276 239.84775 
+L 384.28276 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_23">
+     <g id="text_21">
       <!-- Kenya -->
-      <g style="fill: #262626" transform="translate(417.512922 282.25775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(387.99526 282.34775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-4b" d="M 3050 125 
 L 2400 125 
@@ -1284,15 +1223,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_24">
-     <g id="line2d_24">
-      <path d="M 428.559253 239.75775 
-L 428.559253 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_22">
+     <g id="line2d_22">
+      <path d="M 399.041591 239.84775 
+L 399.041591 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_24">
+     <g id="text_22">
       <!-- Angola -->
-      <g style="fill: #262626" transform="translate(432.323316 288.85775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(402.805653 288.94775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-41"/>
        <use xlink:href="#SimHei-6e" x="50"/>
        <use xlink:href="#SimHei-67" x="100"/>
@@ -1302,15 +1241,15 @@ L 428.559253 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_25">
-     <g id="line2d_25">
-      <path d="M 443.318084 239.75775 
-L 443.318084 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_23">
+     <g id="line2d_23">
+      <path d="M 413.800422 239.84775 
+L 413.800422 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_25">
+     <g id="text_23">
       <!-- Vietnam -->
-      <g style="fill: #262626" transform="translate(447.030584 295.45775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(417.512922 295.54775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-56" d="M 3050 4400 
 L 1800 75 
@@ -1334,15 +1273,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_26">
-     <g id="line2d_26">
-      <path d="M 458.076916 239.75775 
-L 458.076916 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_24">
+     <g id="line2d_24">
+      <path d="M 428.559253 239.84775 
+L 428.559253 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_26">
+     <g id="text_24">
       <!-- Mozambique -->
-      <g style="fill: #262626" transform="translate(461.789416 315.25775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(432.271753 315.34775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-62" d="M 2825 1525 
 Q 2825 800 2475 437 
@@ -1384,15 +1323,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_27">
-     <g id="line2d_27">
-      <path d="M 472.835747 239.75775 
-L 472.835747 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_25">
+     <g id="line2d_25">
+      <path d="M 443.318084 239.84775 
+L 443.318084 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_27">
+     <g id="text_25">
       <!-- Niger -->
-      <g style="fill: #262626" transform="translate(476.548247 282.25775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(447.030584 282.34775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-4e"/>
        <use xlink:href="#SimHei-69" x="50"/>
        <use xlink:href="#SimHei-67" x="100"/>
@@ -1401,15 +1340,15 @@ L 472.835747 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_28">
-     <g id="line2d_28">
-      <path d="M 487.594578 239.75775 
-L 487.594578 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_26">
+     <g id="line2d_26">
+      <path d="M 458.076916 239.84775 
+L 458.076916 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_28">
+     <g id="text_26">
       <!-- Algeria -->
-      <g style="fill: #262626" transform="translate(491.35864 295.45775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(461.840978 295.54775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-41"/>
        <use xlink:href="#SimHei-6c" x="50"/>
        <use xlink:href="#SimHei-67" x="100"/>
@@ -1420,55 +1359,15 @@ L 487.594578 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_29">
-     <g id="line2d_29">
-      <path d="M 502.353409 239.75775 
-L 502.353409 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_27">
+     <g id="line2d_27">
+      <path d="M 472.835747 239.84775 
+L 472.835747 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_29">
-      <!-- Europe (UN... -->
-      <g style="fill: #262626" transform="translate(506.684659 335.05775) rotate(-90) scale(0.132 -0.132)">
-       <defs>
-        <path id="SimHei-28" d="M 2975 -200 
-L 2700 -475 
-Q 2075 125 1762 775 
-Q 1450 1425 1450 2250 
-Q 1450 3075 1762 3725 
-Q 2075 4375 2700 5000 
-L 2975 4725 
-Q 2400 4175 2112 3587 
-Q 1825 3000 1825 2250 
-Q 1825 1500 2112 912 
-Q 2400 325 2975 -200 
-z
-" transform="scale(0.015625)"/>
-       </defs>
-       <use xlink:href="#SimHei-45"/>
-       <use xlink:href="#SimHei-75" x="50"/>
-       <use xlink:href="#SimHei-72" x="100"/>
-       <use xlink:href="#SimHei-6f" x="150"/>
-       <use xlink:href="#SimHei-70" x="200"/>
-       <use xlink:href="#SimHei-65" x="250"/>
-       <use xlink:href="#SimHei-20" x="300"/>
-       <use xlink:href="#SimHei-28" x="350"/>
-       <use xlink:href="#SimHei-55" x="400"/>
-       <use xlink:href="#SimHei-4e" x="450"/>
-       <use xlink:href="#SimHei-2e" x="500"/>
-       <use xlink:href="#SimHei-2e" x="550"/>
-       <use xlink:href="#SimHei-2e" x="600"/>
-      </g>
-     </g>
-    </g>
-    <g id="xtick_30">
-     <g id="line2d_30">
-      <path d="M 517.11224 239.75775 
-L 517.11224 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
-     </g>
-     <g id="text_30">
+     <g id="text_27">
       <!-- Yemen -->
-      <g style="fill: #262626" transform="translate(520.82474 282.25775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(476.548247 282.34775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-59" d="M 3025 4400 
 L 1850 2050 
@@ -1492,15 +1391,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_31">
-     <g id="line2d_31">
-      <path d="M 531.871071 239.75775 
-L 531.871071 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_28">
+     <g id="line2d_28">
+      <path d="M 487.594578 239.84775 
+L 487.594578 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_31">
+     <g id="text_28">
       <!-- South Afri... -->
-      <g style="fill: #262626" transform="translate(535.583571 335.05775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(491.307078 335.14775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-53"/>
        <use xlink:href="#SimHei-6f" x="50"/>
        <use xlink:href="#SimHei-75" x="100"/>
@@ -1517,63 +1416,15 @@ L 531.871071 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_32">
-     <g id="line2d_32">
-      <path d="M 546.629903 239.75775 
-L 546.629903 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_29">
+     <g id="line2d_29">
+      <path d="M 502.353409 239.84775 
+L 502.353409 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_32">
-      <!-- Oceania (U... -->
-      <g style="fill: #262626" transform="translate(550.625996 335.05775) rotate(-90) scale(0.132 -0.132)">
-       <defs>
-        <path id="SimHei-4f" d="M 2950 2275 
-Q 2950 1100 2587 587 
-Q 2225 75 1575 75 
-Q 925 75 550 587 
-Q 175 1100 175 2275 
-Q 175 3450 550 3950 
-Q 925 4450 1575 4450 
-Q 2225 4450 2587 3950 
-Q 2950 3450 2950 2275 
-z
-M 2350 2275 
-Q 2350 3325 2125 3650 
-Q 1900 3975 1575 3975 
-Q 1250 3975 1012 3650 
-Q 775 3325 775 2275 
-Q 775 1225 1012 887 
-Q 1250 550 1575 550 
-Q 1900 550 2125 887 
-Q 2350 1225 2350 2275 
-z
-" transform="scale(0.015625)"/>
-       </defs>
-       <use xlink:href="#SimHei-4f"/>
-       <use xlink:href="#SimHei-63" x="50"/>
-       <use xlink:href="#SimHei-65" x="100"/>
-       <use xlink:href="#SimHei-61" x="150"/>
-       <use xlink:href="#SimHei-6e" x="200"/>
-       <use xlink:href="#SimHei-69" x="250"/>
-       <use xlink:href="#SimHei-61" x="300"/>
-       <use xlink:href="#SimHei-20" x="350"/>
-       <use xlink:href="#SimHei-28" x="400"/>
-       <use xlink:href="#SimHei-55" x="450"/>
-       <use xlink:href="#SimHei-2e" x="500"/>
-       <use xlink:href="#SimHei-2e" x="550"/>
-       <use xlink:href="#SimHei-2e" x="600"/>
-      </g>
-     </g>
-    </g>
-    <g id="xtick_33">
-     <g id="line2d_33">
-      <path d="M 561.388734 239.75775 
-L 561.388734 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
-     </g>
-     <g id="text_33">
+     <g id="text_29">
       <!-- Cameroon -->
-      <g style="fill: #262626" transform="translate(565.101234 302.05775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(506.065909 302.14775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-43"/>
        <use xlink:href="#SimHei-61" x="50"/>
        <use xlink:href="#SimHei-6d" x="100"/>
@@ -1585,15 +1436,15 @@ L 561.388734 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_34">
-     <g id="line2d_34">
-      <path d="M 576.147565 239.75775 
-L 576.147565 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_30">
+     <g id="line2d_30">
+      <path d="M 517.11224 239.84775 
+L 517.11224 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_34">
+     <g id="text_30">
       <!-- Ghana -->
-      <g style="fill: #262626" transform="translate(579.860065 282.25775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(520.82474 282.34775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-47" d="M 2850 75 
 L 2425 75 
@@ -1631,15 +1482,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_35">
-     <g id="line2d_35">
-      <path d="M 590.906396 239.75775 
-L 590.906396 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_31">
+     <g id="line2d_31">
+      <path d="M 531.871071 239.84775 
+L 531.871071 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_35">
+     <g id="text_31">
       <!-- Madagascar -->
-      <g style="fill: #262626" transform="translate(594.618896 315.25775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(535.583571 315.34775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-4d"/>
        <use xlink:href="#SimHei-61" x="50"/>
        <use xlink:href="#SimHei-64" x="100"/>
@@ -1653,15 +1504,15 @@ L 590.906396 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_36">
-     <g id="line2d_36">
-      <path d="M 605.665227 239.75775 
-L 605.665227 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_32">
+     <g id="line2d_32">
+      <path d="M 546.629903 239.84775 
+L 546.629903 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_36">
+     <g id="text_32">
       <!-- Colombia -->
-      <g style="fill: #262626" transform="translate(609.377727 302.05775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(550.342403 302.14775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-43"/>
        <use xlink:href="#SimHei-6f" x="50"/>
        <use xlink:href="#SimHei-6c" x="100"/>
@@ -1673,15 +1524,15 @@ L 605.665227 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_37">
-     <g id="line2d_37">
-      <path d="M 620.424058 239.75775 
-L 620.424058 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_33">
+     <g id="line2d_33">
+      <path d="M 561.388734 239.84775 
+L 561.388734 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_37">
+     <g id="text_33">
       <!-- Cote d'Ivo... -->
-      <g style="fill: #262626" transform="translate(624.136558 335.05775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(565.101234 335.14775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-27" d="M 1700 4450 
 Q 1625 4125 1600 3800 
@@ -1720,15 +1571,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_38">
-     <g id="line2d_38">
-      <path d="M 635.18289 239.75775 
-L 635.18289 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_34">
+     <g id="line2d_34">
+      <path d="M 576.147565 239.84775 
+L 576.147565 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_38">
+     <g id="text_34">
       <!-- Mali -->
-      <g style="fill: #262626" transform="translate(638.89539 275.65775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(579.860065 275.74775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-4d"/>
        <use xlink:href="#SimHei-61" x="50"/>
        <use xlink:href="#SimHei-6c" x="100"/>
@@ -1736,15 +1587,15 @@ L 635.18289 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_39">
-     <g id="line2d_39">
-      <path d="M 649.941721 239.75775 
-L 649.941721 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_35">
+     <g id="line2d_35">
+      <path d="M 590.906396 239.84775 
+L 590.906396 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_39">
+     <g id="text_35">
       <!-- Saudi Arab... -->
-      <g style="fill: #262626" transform="translate(653.654221 335.05775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(594.618896 335.14775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-53"/>
        <use xlink:href="#SimHei-61" x="50"/>
        <use xlink:href="#SimHei-75" x="100"/>
@@ -1761,15 +1612,15 @@ L 649.941721 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_40">
-     <g id="line2d_40">
-      <path d="M 664.700552 239.75775 
-L 664.700552 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_36">
+     <g id="line2d_36">
+      <path d="M 605.665227 239.84775 
+L 605.665227 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_40">
+     <g id="text_36">
       <!-- Burkina Fa... -->
-      <g style="fill: #262626" transform="translate(668.413052 335.05775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(609.377727 335.14775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-46" d="M 2925 3925 
 L 875 3925 
@@ -1801,15 +1652,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_41">
-     <g id="line2d_41">
-      <path d="M 679.459383 239.75775 
-L 679.459383 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_37">
+     <g id="line2d_37">
+      <path d="M 620.424058 239.84775 
+L 620.424058 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_41">
+     <g id="text_37">
       <!-- Zambia -->
-      <g style="fill: #262626" transform="translate(683.171883 288.85775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(624.136558 288.94775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-5a" d="M 2900 125 
 L 225 125 
@@ -1834,15 +1685,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_42">
-     <g id="line2d_42">
-      <path d="M 694.218214 239.75775 
-L 694.218214 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_38">
+     <g id="line2d_38">
+      <path d="M 635.18289 239.84775 
+L 635.18289 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_42">
+     <g id="text_38">
       <!-- Uzbekistan -->
-      <g style="fill: #262626" transform="translate(697.930714 315.25775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(638.89539 315.34775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-55"/>
        <use xlink:href="#SimHei-7a" x="50"/>
        <use xlink:href="#SimHei-62" x="100"/>
@@ -1856,15 +1707,15 @@ L 694.218214 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_43">
-     <g id="line2d_43">
-      <path d="M 708.977045 239.75775 
-L 708.977045 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_39">
+     <g id="line2d_39">
+      <path d="M 649.941721 239.84775 
+L 649.941721 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_43">
+     <g id="text_39">
       <!-- Chad -->
-      <g style="fill: #262626" transform="translate(712.689545 275.65775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(653.654221 275.74775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-43"/>
        <use xlink:href="#SimHei-68" x="50"/>
        <use xlink:href="#SimHei-61" x="100"/>
@@ -1872,15 +1723,15 @@ L 708.977045 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_44">
-     <g id="line2d_44">
-      <path d="M 723.735877 239.75775 
-L 723.735877 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_40">
+     <g id="line2d_40">
+      <path d="M 664.700552 239.84775 
+L 664.700552 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_44">
+     <g id="text_40">
       <!-- Somalia -->
-      <g style="fill: #262626" transform="translate(727.448377 295.45775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(668.413052 295.54775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-53"/>
        <use xlink:href="#SimHei-6f" x="50"/>
        <use xlink:href="#SimHei-6d" x="100"/>
@@ -1891,15 +1742,15 @@ L 723.735877 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_45">
-     <g id="line2d_45">
-      <path d="M 738.494708 239.75775 
-L 738.494708 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_41">
+     <g id="line2d_41">
+      <path d="M 679.459383 239.84775 
+L 679.459383 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_45">
+     <g id="text_41">
       <!-- Malawi -->
-      <g style="fill: #262626" transform="translate(742.207208 288.85775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(683.171883 288.94775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-77" d="M 3075 2925 
 L 2450 75 
@@ -1930,15 +1781,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_46">
-     <g id="line2d_46">
-      <path d="M 753.253539 239.75775 
-L 753.253539 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_42">
+     <g id="line2d_42">
+      <path d="M 694.218214 239.84775 
+L 694.218214 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_46">
+     <g id="text_42">
       <!-- Malaysia -->
-      <g style="fill: #262626" transform="translate(756.966039 302.05775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(697.930714 302.14775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-4d"/>
        <use xlink:href="#SimHei-61" x="50"/>
        <use xlink:href="#SimHei-6c" x="100"/>
@@ -1950,15 +1801,15 @@ L 753.253539 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_47">
-     <g id="line2d_47">
-      <path d="M 768.01237 239.75775 
-L 768.01237 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_43">
+     <g id="line2d_43">
+      <path d="M 708.977045 239.84775 
+L 708.977045 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_47">
+     <g id="text_43">
       <!-- Peru -->
-      <g style="fill: #262626" transform="translate(771.72487 275.65775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(712.689545 275.74775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-50"/>
        <use xlink:href="#SimHei-65" x="50"/>
        <use xlink:href="#SimHei-72" x="100"/>
@@ -1966,15 +1817,15 @@ L 768.01237 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_48">
-     <g id="line2d_48">
-      <path d="M 782.771201 239.75775 
-L 782.771201 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_44">
+     <g id="line2d_44">
+      <path d="M 723.735877 239.84775 
+L 723.735877 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_48">
+     <g id="text_44">
       <!-- Morocco -->
-      <g style="fill: #262626" transform="translate(786.483701 295.45775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(727.448377 295.54775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-4d"/>
        <use xlink:href="#SimHei-6f" x="50"/>
        <use xlink:href="#SimHei-72" x="100"/>
@@ -1985,15 +1836,15 @@ L 782.771201 27.912
       </g>
      </g>
     </g>
-    <g id="xtick_49">
-     <g id="line2d_49">
-      <path d="M 797.530032 239.75775 
-L 797.530032 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_45">
+     <g id="line2d_45">
+      <path d="M 738.494708 239.84775 
+L 738.494708 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_49">
+     <g id="text_45">
       <!-- Jordan -->
-      <g style="fill: #262626" transform="translate(801.242532 288.85775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(742.207208 288.94775) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-4a" d="M 2800 1550 
 Q 2800 775 2462 425 
@@ -2022,15 +1873,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_50">
-     <g id="line2d_50">
-      <path d="M 812.288864 239.75775 
-L 812.288864 27.912 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+    <g id="xtick_46">
+     <g id="line2d_46">
+      <path d="M 753.253539 239.84775 
+L 753.253539 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
-     <g id="text_50">
+     <g id="text_46">
       <!-- Myanmar -->
-      <g style="fill: #262626" transform="translate(816.001364 295.45775) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(756.966039 295.54775) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-4d"/>
        <use xlink:href="#SimHei-79" x="50"/>
        <use xlink:href="#SimHei-61" x="100"/>
@@ -2041,9 +1892,92 @@ L 812.288864 27.912
       </g>
      </g>
     </g>
+    <g id="xtick_47">
+     <g id="line2d_47">
+      <path d="M 768.01237 239.84775 
+L 768.01237 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+     </g>
+     <g id="text_47">
+      <!-- Senegal -->
+      <g style="fill: #262626" transform="translate(771.776433 295.54775) rotate(-90) scale(0.132 -0.132)">
+       <use xlink:href="#SimHei-53"/>
+       <use xlink:href="#SimHei-65" x="50"/>
+       <use xlink:href="#SimHei-6e" x="100"/>
+       <use xlink:href="#SimHei-65" x="150"/>
+       <use xlink:href="#SimHei-67" x="200"/>
+       <use xlink:href="#SimHei-61" x="250"/>
+       <use xlink:href="#SimHei-6c" x="300"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_48">
+     <g id="line2d_48">
+      <path d="M 782.771201 239.84775 
+L 782.771201 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+     </g>
+     <g id="text_48">
+      <!-- United Kin... -->
+      <g style="fill: #262626" transform="translate(786.483701 335.14775) rotate(-90) scale(0.132 -0.132)">
+       <use xlink:href="#SimHei-55"/>
+       <use xlink:href="#SimHei-6e" x="50"/>
+       <use xlink:href="#SimHei-69" x="100"/>
+       <use xlink:href="#SimHei-74" x="150"/>
+       <use xlink:href="#SimHei-65" x="200"/>
+       <use xlink:href="#SimHei-64" x="250"/>
+       <use xlink:href="#SimHei-20" x="300"/>
+       <use xlink:href="#SimHei-4b" x="350"/>
+       <use xlink:href="#SimHei-69" x="400"/>
+       <use xlink:href="#SimHei-6e" x="450"/>
+       <use xlink:href="#SimHei-2e" x="500"/>
+       <use xlink:href="#SimHei-2e" x="550"/>
+       <use xlink:href="#SimHei-2e" x="600"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_49">
+     <g id="line2d_49">
+      <path d="M 797.530032 239.84775 
+L 797.530032 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+     </g>
+     <g id="text_49">
+      <!-- Canada -->
+      <g style="fill: #262626" transform="translate(801.242532 288.94775) rotate(-90) scale(0.132 -0.132)">
+       <use xlink:href="#SimHei-43"/>
+       <use xlink:href="#SimHei-61" x="50"/>
+       <use xlink:href="#SimHei-6e" x="100"/>
+       <use xlink:href="#SimHei-61" x="150"/>
+       <use xlink:href="#SimHei-64" x="200"/>
+       <use xlink:href="#SimHei-61" x="250"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_50">
+     <g id="line2d_50">
+      <path d="M 812.288864 239.84775 
+L 812.288864 27.912 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+     </g>
+     <g id="text_50">
+      <!-- Argentina -->
+      <g style="fill: #262626" transform="translate(816.052926 308.74775) rotate(-90) scale(0.132 -0.132)">
+       <use xlink:href="#SimHei-41"/>
+       <use xlink:href="#SimHei-72" x="50"/>
+       <use xlink:href="#SimHei-67" x="100"/>
+       <use xlink:href="#SimHei-65" x="150"/>
+       <use xlink:href="#SimHei-6e" x="200"/>
+       <use xlink:href="#SimHei-74" x="250"/>
+       <use xlink:href="#SimHei-69" x="300"/>
+       <use xlink:href="#SimHei-6e" x="350"/>
+       <use xlink:href="#SimHei-61" x="400"/>
+      </g>
+     </g>
+    </g>
     <g id="text_51">
      <!-- 国家 -->
-     <g style="fill: #262626" transform="translate(436.2975 350.64525) scale(0.144 -0.144)">
+     <g style="fill: #262626" transform="translate(436.2975 350.73525) scale(0.144 -0.144)">
       <defs>
        <path id="SimHei-56fd" d="M 5775 4975 
 Q 5750 4350 5750 3575 
@@ -2181,13 +2115,13 @@ z
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
      <g id="line2d_51">
-      <path d="M 52.947 235.411653 
-L 848.448 235.411653 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+      <path d="M 52.947 235.164651 
+L 848.448 235.164651 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_52">
       <!-- 0.00 -->
-      <g style="fill: #262626" transform="translate(41.797 257.274153) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(41.797 257.027151) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-30" d="M 225 2537 
 Q 250 3200 412 3587 
@@ -2226,13 +2160,13 @@ z
     </g>
     <g id="ytick_2">
      <g id="line2d_52">
-      <path d="M 52.947 202.420667 
-L 848.448 202.420667 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+      <path d="M 52.947 202.21553 
+L 848.448 202.21553 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_53">
       <!-- 0.25 -->
-      <g style="fill: #262626" transform="translate(41.797 224.283167) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(41.797 224.07803) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-32" d="M 300 250 
 Q 325 625 650 925 
@@ -2297,13 +2231,13 @@ z
     </g>
     <g id="ytick_3">
      <g id="line2d_53">
-      <path d="M 52.947 169.429681 
-L 848.448 169.429681 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+      <path d="M 52.947 169.266409 
+L 848.448 169.266409 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_54">
       <!-- 0.50 -->
-      <g style="fill: #262626" transform="translate(41.797 191.292181) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(41.797 191.128909) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-30"/>
        <use xlink:href="#SimHei-2e" x="50"/>
        <use xlink:href="#SimHei-35" x="100"/>
@@ -2313,13 +2247,13 @@ L 848.448 169.429681
     </g>
     <g id="ytick_4">
      <g id="line2d_54">
-      <path d="M 52.947 136.438695 
-L 848.448 136.438695 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+      <path d="M 52.947 136.317288 
+L 848.448 136.317288 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_55">
       <!-- 0.75 -->
-      <g style="fill: #262626" transform="translate(41.797 158.301195) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(41.797 158.179788) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-37" d="M 850 150 
 Q 1300 2050 2425 3925 
@@ -2341,13 +2275,13 @@ z
     </g>
     <g id="ytick_5">
      <g id="line2d_55">
-      <path d="M 52.947 103.447709 
-L 848.448 103.447709 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+      <path d="M 52.947 103.368166 
+L 848.448 103.368166 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_56">
       <!-- 1.00 -->
-      <g style="fill: #262626" transform="translate(41.797 125.310209) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(41.797 125.230666) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-31" d="M 1400 3600 
 Q 1075 3275 575 2975 
@@ -2369,13 +2303,13 @@ z
     </g>
     <g id="ytick_6">
      <g id="line2d_56">
-      <path d="M 52.947 70.456723 
-L 848.448 70.456723 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+      <path d="M 52.947 70.419045 
+L 848.448 70.419045 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_57">
       <!-- 1.25 -->
-      <g style="fill: #262626" transform="translate(41.797 92.319223) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(41.797 92.281545) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-31"/>
        <use xlink:href="#SimHei-2e" x="50"/>
        <use xlink:href="#SimHei-32" x="100"/>
@@ -2385,13 +2319,13 @@ L 848.448 70.456723
     </g>
     <g id="ytick_7">
      <g id="line2d_57">
-      <path d="M 52.947 37.465737 
-L 848.448 37.465737 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+      <path d="M 52.947 37.469924 
+L 848.448 37.469924 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_58">
       <!-- 1.50 -->
-      <g style="fill: #262626" transform="translate(41.797 59.328237) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(41.797 59.332424) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-31"/>
        <use xlink:href="#SimHei-2e" x="50"/>
        <use xlink:href="#SimHei-35" x="100"/>
@@ -2401,7 +2335,7 @@ L 848.448 37.465737
     </g>
     <g id="text_59">
      <!-- 人口增长数 -->
-     <g style="fill: #262626" transform="translate(26.922 169.834875) rotate(-90) scale(0.144 -0.144)">
+     <g style="fill: #262626" transform="translate(26.922 169.879875) rotate(-90) scale(0.144 -0.144)">
       <defs>
        <path id="SimHei-4eba" d="M 350 -150 
 Q 1325 325 1875 1025 
@@ -2744,71 +2678,71 @@ z
    </g>
    <g id="PolyCollection_1"/>
    <g id="line2d_58">
-    <path d="M 89.106136 37.541352 
-L 103.864968 144.622967 
-L 118.623799 157.660794 
-L 133.38263 172.151319 
-L 148.141461 192.128311 
-L 162.900292 197.848011 
-L 177.659123 199.464873 
-L 192.417955 199.843491 
-L 207.176786 200.23867 
-L 221.935617 204.90023 
-L 236.694448 208.936878 
-L 251.453279 210.14684 
-L 266.21211 212.261971 
-L 280.970942 212.750406 
-L 295.729773 214.111459 
-L 310.488604 218.839566 
-L 325.247435 218.844029 
-L 340.006266 220.129622 
-L 354.765097 220.582105 
-L 369.523929 220.690384 
-L 384.28276 221.093164 
-L 399.041591 221.42143 
-L 413.800422 221.726375 
-L 428.559253 221.892401 
-L 443.318084 223.377962 
-L 458.076916 224.436674 
-L 472.835747 224.89465 
-L 487.594578 225.336977 
-L 502.353409 225.403297 
-L 517.11224 225.506392 
-L 531.871071 226.241563 
-L 546.629903 226.48879 
-L 561.388734 226.504414 
-L 576.147565 226.666276 
-L 590.906396 226.744929 
-L 605.665227 227.219775 
-L 620.424058 227.605545 
-L 635.18289 227.67163 
-L 649.941721 227.758478 
-L 664.700552 228.156226 
-L 679.459383 228.539884 
-L 694.218214 228.78179 
-L 708.977045 228.995547 
-L 723.735877 229.013057 
-L 738.494708 229.15175 
-L 753.253539 229.618793 
-L 768.01237 229.819362 
-L 782.771201 229.904956 
-L 797.530032 230.082543 
-L 812.288864 230.128398 
-" clip-path="url(#pdf621df4b3)" style="fill: none; stroke: #4c72b0; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 89.106136 37.545443 
+L 103.864968 144.491174 
+L 118.623799 171.984593 
+L 133.38263 191.936235 
+L 148.141461 197.648676 
+L 162.900292 199.263487 
+L 177.659123 200.036302 
+L 192.417955 204.691946 
+L 207.176786 208.723472 
+L 221.935617 209.931898 
+L 236.694448 212.044345 
+L 251.453279 212.532161 
+L 266.21211 213.891486 
+L 280.970942 218.613593 
+L 295.729773 218.618051 
+L 310.488604 219.902012 
+L 325.247435 220.353921 
+L 340.006266 220.462063 
+L 354.765097 220.864332 
+L 369.523929 221.192181 
+L 384.28276 221.496739 
+L 399.041591 221.662555 
+L 413.800422 223.14623 
+L 428.559253 224.203599 
+L 443.318084 224.660993 
+L 458.076916 225.102759 
+L 472.835747 225.27196 
+L 487.594578 226.006198 
+L 502.353409 226.268715 
+L 517.11224 226.430372 
+L 531.871071 226.508925 
+L 546.629903 226.983168 
+L 561.388734 227.368449 
+L 576.147565 227.43445 
+L 590.906396 227.521188 
+L 605.665227 227.918431 
+L 620.424058 228.301602 
+L 635.18289 228.543201 
+L 649.941721 228.756686 
+L 664.700552 228.774175 
+L 679.459383 228.912691 
+L 694.218214 229.379141 
+L 708.977045 229.579456 
+L 723.735877 229.664942 
+L 738.494708 229.842303 
+L 753.253539 229.8881 
+L 768.01237 229.891674 
+L 782.771201 229.899804 
+L 797.530032 230.114901 
+L 812.288864 230.214307 
+" clip-path="url(#p317cf3f6d0)" style="fill: none; stroke: #4c72b0; stroke-width: 1.5; stroke-linecap: round"/>
    </g>
    <g id="patch_3">
-    <path d="M 52.947 239.75775 
+    <path d="M 52.947 239.84775 
 L 52.947 27.912 
 " style="fill: none; stroke: #ffffff; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_4">
-    <path d="M 848.448 239.75775 
+    <path d="M 848.448 239.84775 
 L 848.448 27.912 
 " style="fill: none; stroke: #ffffff; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_5">
-    <path d="M 52.947 239.75775 
-L 848.448 239.75775 
+    <path d="M 52.947 239.84775 
+L 848.448 239.84775 
 " style="fill: none; stroke: #ffffff; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_6">
@@ -2821,8 +2755,8 @@ L 848.448 27.912
    <g id="patch_7">
     <path d="M 52.947 592.02675 
 L 848.448 592.02675 
-L 848.448 380.181 
-L 52.947 380.181 
+L 848.448 380.091 
+L 52.947 380.091 
 z
 " style="fill: #eaeaf2"/>
    </g>
@@ -2830,8 +2764,8 @@ z
     <g id="xtick_51">
      <g id="line2d_59">
       <path d="M 89.106136 592.02675 
-L 89.106136 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 89.106136 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_61">
       <!-- San Marino -->
@@ -2852,8 +2786,8 @@ L 89.106136 380.181
     <g id="xtick_52">
      <g id="line2d_60">
       <path d="M 103.864968 592.02675 
-L 103.864968 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 103.864968 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_62">
       <!-- Gibraltar -->
@@ -2873,8 +2807,8 @@ L 103.864968 380.181
     <g id="xtick_53">
      <g id="line2d_61">
       <path d="M 118.623799 592.02675 
-L 118.623799 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 118.623799 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_63">
       <!-- Bermuda -->
@@ -2892,8 +2826,8 @@ L 118.623799 380.181
     <g id="xtick_54">
      <g id="line2d_62">
       <path d="M 133.38263 592.02675 
-L 133.38263 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 133.38263 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_64">
       <!-- Falkland I... -->
@@ -2917,8 +2851,8 @@ L 133.38263 380.181
     <g id="xtick_55">
      <g id="line2d_63">
       <path d="M 148.141461 592.02675 
-L 148.141461 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 148.141461 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_65">
       <!-- Tuvalu -->
@@ -2935,8 +2869,8 @@ L 148.141461 380.181
     <g id="xtick_56">
      <g id="line2d_64">
       <path d="M 162.900292 592.02675 
-L 162.900292 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 162.900292 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_66">
       <!-- Tokelau -->
@@ -2954,8 +2888,8 @@ L 162.900292 380.181
     <g id="xtick_57">
      <g id="line2d_65">
       <path d="M 177.659123 592.02675 
-L 177.659123 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 177.659123 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_67">
       <!-- Niue -->
@@ -2970,8 +2904,8 @@ L 177.659123 380.181
     <g id="xtick_58">
      <g id="line2d_66">
       <path d="M 192.417955 592.02675 
-L 192.417955 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 192.417955 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_68">
       <!-- Saint Hele... -->
@@ -3012,8 +2946,8 @@ z
     <g id="xtick_59">
      <g id="line2d_67">
       <path d="M 207.176786 592.02675 
-L 207.176786 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 207.176786 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_69">
       <!-- Saint Kitt... -->
@@ -3037,8 +2971,8 @@ L 207.176786 380.181
     <g id="xtick_60">
      <g id="line2d_68">
       <path d="M 221.935617 592.02675 
-L 221.935617 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 221.935617 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_70">
       <!-- Greenland -->
@@ -3058,8 +2992,8 @@ L 221.935617 380.181
     <g id="xtick_61">
      <g id="line2d_69">
       <path d="M 236.694448 592.02675 
-L 236.694448 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 236.694448 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_71">
       <!-- Isle of Ma... -->
@@ -3083,8 +3017,8 @@ L 236.694448 380.181
     <g id="xtick_62">
      <g id="line2d_70">
       <path d="M 251.453279 592.02675 
-L 251.453279 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 251.453279 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_72">
       <!-- Saint Pier... -->
@@ -3108,8 +3042,8 @@ L 251.453279 380.181
     <g id="xtick_63">
      <g id="line2d_71">
       <path d="M 266.21211 592.02675 
-L 266.21211 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 266.21211 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_73">
       <!-- Palau -->
@@ -3125,8 +3059,8 @@ L 266.21211 380.181
     <g id="xtick_64">
      <g id="line2d_72">
       <path d="M 280.970942 592.02675 
-L 280.970942 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 280.970942 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_74">
       <!-- Montserrat -->
@@ -3147,8 +3081,8 @@ L 280.970942 380.181
     <g id="xtick_65">
      <g id="line2d_73">
       <path d="M 295.729773 592.02675 
-L 295.729773 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 295.729773 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_75">
       <!-- Cook Islan... -->
@@ -3172,8 +3106,8 @@ L 295.729773 380.181
     <g id="xtick_66">
      <g id="line2d_74">
       <path d="M 310.488604 592.02675 
-L 310.488604 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 310.488604 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_76">
       <!-- Wallis and... -->
@@ -3218,8 +3152,8 @@ z
     <g id="xtick_67">
      <g id="line2d_75">
       <path d="M 325.247435 592.02675 
-L 325.247435 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 325.247435 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_77">
       <!-- Tonga -->
@@ -3235,8 +3169,8 @@ L 325.247435 380.181
     <g id="xtick_68">
      <g id="line2d_76">
       <path d="M 340.006266 592.02675 
-L 340.006266 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 340.006266 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_78">
       <!-- Northern M... -->
@@ -3260,8 +3194,8 @@ L 340.006266 380.181
     <g id="xtick_69">
      <g id="line2d_77">
       <path d="M 354.765097 592.02675 
-L 354.765097 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 354.765097 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_79">
       <!-- Montenegro -->
@@ -3282,8 +3216,8 @@ L 354.765097 380.181
     <g id="xtick_70">
      <g id="line2d_78">
       <path d="M 369.523929 592.02675 
-L 369.523929 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 369.523929 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_80">
       <!-- Saint Vinc... -->
@@ -3307,8 +3241,8 @@ L 369.523929 380.181
     <g id="xtick_71">
      <g id="line2d_79">
       <path d="M 384.28276 592.02675 
-L 384.28276 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 384.28276 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_81">
       <!-- Saint Mart... -->
@@ -3332,8 +3266,8 @@ L 384.28276 380.181
     <g id="xtick_72">
      <g id="line2d_80">
       <path d="M 399.041591 592.02675 
-L 399.041591 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 399.041591 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_82">
       <!-- United Sta... -->
@@ -3357,8 +3291,8 @@ L 399.041591 380.181
     <g id="xtick_73">
      <g id="line2d_81">
       <path d="M 413.800422 592.02675 
-L 413.800422 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 413.800422 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_83">
       <!-- Guadeloupe -->
@@ -3379,8 +3313,8 @@ L 413.800422 380.181
     <g id="xtick_74">
      <g id="line2d_82">
       <path d="M 428.559253 592.02675 
-L 428.559253 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 428.559253 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_84">
       <!-- American S... -->
@@ -3404,8 +3338,8 @@ L 428.559253 380.181
     <g id="xtick_75">
      <g id="line2d_83">
       <path d="M 443.318084 592.02675 
-L 443.318084 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 443.318084 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_85">
       <!-- Marshall I... -->
@@ -3429,8 +3363,8 @@ L 443.318084 380.181
     <g id="xtick_76">
      <g id="line2d_84">
       <path d="M 458.076916 592.02675 
-L 458.076916 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 458.076916 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_86">
       <!-- Martinique -->
@@ -3451,8 +3385,8 @@ L 458.076916 380.181
     <g id="xtick_77">
      <g id="line2d_85">
       <path d="M 472.835747 592.02675 
-L 472.835747 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 472.835747 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_87">
       <!-- Cuba -->
@@ -3467,8 +3401,8 @@ L 472.835747 380.181
     <g id="xtick_78">
      <g id="line2d_86">
       <path d="M 487.594578 592.02675 
-L 487.594578 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 487.594578 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_88">
       <!-- Albania -->
@@ -3486,8 +3420,8 @@ L 487.594578 380.181
     <g id="xtick_79">
      <g id="line2d_87">
       <path d="M 502.353409 592.02675 
-L 502.353409 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 502.353409 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_89">
       <!-- Georgia -->
@@ -3505,8 +3439,8 @@ L 502.353409 380.181
     <g id="xtick_80">
      <g id="line2d_88">
       <path d="M 517.11224 592.02675 
-L 517.11224 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 517.11224 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_90">
       <!-- Belarus -->
@@ -3524,8 +3458,8 @@ L 517.11224 380.181
     <g id="xtick_81">
      <g id="line2d_89">
       <path d="M 531.871071 592.02675 
-L 531.871071 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 531.871071 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_91">
       <!-- Kosovo -->
@@ -3542,8 +3476,8 @@ L 531.871071 380.181
     <g id="xtick_82">
      <g id="line2d_90">
       <path d="M 546.629903 592.02675 
-L 546.629903 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 546.629903 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_92">
       <!-- Armenia -->
@@ -3561,12 +3495,23 @@ L 546.629903 380.181
     <g id="xtick_83">
      <g id="line2d_91">
       <path d="M 561.388734 592.02675 
-L 561.388734 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 561.388734 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_93">
       <!-- Latvia -->
       <g style="fill: #262626" transform="translate(565.101234 641.12675) rotate(-90) scale(0.132 -0.132)">
+       <defs>
+        <path id="SimHei-4c" d="M 2900 125 
+L 300 125 
+L 300 4400 
+L 875 4400 
+L 875 600 
+L 2900 600 
+L 2900 125 
+z
+" transform="scale(0.015625)"/>
+       </defs>
        <use xlink:href="#SimHei-4c"/>
        <use xlink:href="#SimHei-61" x="50"/>
        <use xlink:href="#SimHei-74" x="100"/>
@@ -3579,8 +3524,8 @@ L 561.388734 380.181
     <g id="xtick_84">
      <g id="line2d_92">
       <path d="M 576.147565 592.02675 
-L 576.147565 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 576.147565 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_94">
       <!-- Hungary -->
@@ -3598,8 +3543,8 @@ L 576.147565 380.181
     <g id="xtick_85">
      <g id="line2d_93">
       <path d="M 590.906396 592.02675 
-L 590.906396 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 590.906396 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_95">
       <!-- Portugal -->
@@ -3618,8 +3563,8 @@ L 590.906396 380.181
     <g id="xtick_86">
      <g id="line2d_94">
       <path d="M 605.665227 592.02675 
-L 605.665227 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 605.665227 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_96">
       <!-- Croatia -->
@@ -3637,8 +3582,8 @@ L 605.665227 380.181
     <g id="xtick_87">
      <g id="line2d_95">
       <path d="M 620.424058 592.02675 
-L 620.424058 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 620.424058 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_97">
       <!-- Poland -->
@@ -3655,8 +3600,8 @@ L 620.424058 380.181
     <g id="xtick_88">
      <g id="line2d_96">
       <path d="M 635.18289 592.02675 
-L 635.18289 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 635.18289 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_98">
       <!-- Lithuania -->
@@ -3676,8 +3621,8 @@ L 635.18289 380.181
     <g id="xtick_89">
      <g id="line2d_97">
       <path d="M 649.941721 592.02675 
-L 649.941721 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 649.941721 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_99">
       <!-- Serbia -->
@@ -3694,8 +3639,8 @@ L 649.941721 380.181
     <g id="xtick_90">
      <g id="line2d_98">
       <path d="M 664.700552 592.02675 
-L 664.700552 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 664.700552 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_100">
       <!-- Puerto Ric... -->
@@ -3745,8 +3690,8 @@ z
     <g id="xtick_91">
      <g id="line2d_99">
       <path d="M 679.459383 592.02675 
-L 679.459383 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 679.459383 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_101">
       <!-- Bosnia and... -->
@@ -3770,8 +3715,8 @@ L 679.459383 380.181
     <g id="xtick_92">
      <g id="line2d_100">
       <path d="M 694.218214 592.02675 
-L 694.218214 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 694.218214 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_102">
       <!-- Moldova -->
@@ -3789,8 +3734,8 @@ L 694.218214 380.181
     <g id="xtick_93">
      <g id="line2d_101">
       <path d="M 708.977045 592.02675 
-L 708.977045 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 708.977045 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_103">
       <!-- Greece -->
@@ -3807,8 +3752,8 @@ L 708.977045 380.181
     <g id="xtick_94">
      <g id="line2d_102">
       <path d="M 723.735877 592.02675 
-L 723.735877 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 723.735877 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_104">
       <!-- Bulgaria -->
@@ -3827,8 +3772,8 @@ L 723.735877 380.181
     <g id="xtick_95">
      <g id="line2d_103">
       <path d="M 738.494708 592.02675 
-L 738.494708 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 738.494708 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_105">
       <!-- Italy -->
@@ -3844,8 +3789,8 @@ L 738.494708 380.181
     <g id="xtick_96">
      <g id="line2d_104">
       <path d="M 753.253539 592.02675 
-L 753.253539 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 753.253539 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_106">
       <!-- Romania -->
@@ -3863,8 +3808,8 @@ L 753.253539 380.181
     <g id="xtick_97">
      <g id="line2d_105">
       <path d="M 768.01237 592.02675 
-L 768.01237 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 768.01237 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_107">
       <!-- Venezuela -->
@@ -3884,8 +3829,8 @@ L 768.01237 380.181
     <g id="xtick_98">
      <g id="line2d_106">
       <path d="M 782.771201 592.02675 
-L 782.771201 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 782.771201 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_108">
       <!-- Syria -->
@@ -3901,8 +3846,8 @@ L 782.771201 380.181
     <g id="xtick_99">
      <g id="line2d_107">
       <path d="M 797.530032 592.02675 
-L 797.530032 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 797.530032 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_109">
       <!-- Ukraine -->
@@ -3920,8 +3865,8 @@ L 797.530032 380.181
     <g id="xtick_100">
      <g id="line2d_108">
       <path d="M 812.288864 592.02675 
-L 812.288864 380.181 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+L 812.288864 380.091 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_110">
       <!-- Japan -->
@@ -3945,13 +3890,13 @@ L 812.288864 380.181
    <g id="matplotlib.axis_4">
     <g id="ytick_8">
      <g id="line2d_109">
-      <path d="M 52.947 588.367518 
-L 848.448 588.367518 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+      <path d="M 52.947 588.365963 
+L 848.448 588.365963 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_112">
       <!-- -3.5 -->
-      <g style="fill: #262626" transform="translate(41.797 610.230018) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(41.797 610.228463) rotate(-90) scale(0.132 -0.132)">
        <defs>
         <path id="SimHei-2d" d="M 2975 2125 
 L 125 2125 
@@ -3999,13 +3944,13 @@ z
     </g>
     <g id="ytick_9">
      <g id="line2d_110">
-      <path d="M 52.947 560.012368 
-L 848.448 560.012368 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+      <path d="M 52.947 559.998767 
+L 848.448 559.998767 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_113">
       <!-- -3.0 -->
-      <g style="fill: #262626" transform="translate(41.797 581.874868) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(41.797 581.861267) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-2d"/>
        <use xlink:href="#SimHei-33" x="50"/>
        <use xlink:href="#SimHei-2e" x="100"/>
@@ -4015,13 +3960,13 @@ L 848.448 560.012368
     </g>
     <g id="ytick_10">
      <g id="line2d_111">
-      <path d="M 52.947 531.657218 
-L 848.448 531.657218 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+      <path d="M 52.947 531.63157 
+L 848.448 531.63157 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_114">
       <!-- -2.5 -->
-      <g style="fill: #262626" transform="translate(41.797 553.519718) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(41.797 553.49407) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-2d"/>
        <use xlink:href="#SimHei-32" x="50"/>
        <use xlink:href="#SimHei-2e" x="100"/>
@@ -4031,13 +3976,13 @@ L 848.448 531.657218
     </g>
     <g id="ytick_11">
      <g id="line2d_112">
-      <path d="M 52.947 503.302067 
-L 848.448 503.302067 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+      <path d="M 52.947 503.264374 
+L 848.448 503.264374 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_115">
       <!-- -2.0 -->
-      <g style="fill: #262626" transform="translate(41.797 525.164567) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(41.797 525.126874) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-2d"/>
        <use xlink:href="#SimHei-32" x="50"/>
        <use xlink:href="#SimHei-2e" x="100"/>
@@ -4047,13 +3992,13 @@ L 848.448 503.302067
     </g>
     <g id="ytick_12">
      <g id="line2d_113">
-      <path d="M 52.947 474.946917 
-L 848.448 474.946917 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+      <path d="M 52.947 474.897177 
+L 848.448 474.897177 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_116">
       <!-- -1.5 -->
-      <g style="fill: #262626" transform="translate(41.797 496.809417) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(41.797 496.759677) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-2d"/>
        <use xlink:href="#SimHei-31" x="50"/>
        <use xlink:href="#SimHei-2e" x="100"/>
@@ -4063,13 +4008,13 @@ L 848.448 474.946917
     </g>
     <g id="ytick_13">
      <g id="line2d_114">
-      <path d="M 52.947 446.591767 
-L 848.448 446.591767 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+      <path d="M 52.947 446.529981 
+L 848.448 446.529981 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_117">
       <!-- -1.0 -->
-      <g style="fill: #262626" transform="translate(41.797 468.454267) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(41.797 468.392481) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-2d"/>
        <use xlink:href="#SimHei-31" x="50"/>
        <use xlink:href="#SimHei-2e" x="100"/>
@@ -4079,13 +4024,13 @@ L 848.448 446.591767
     </g>
     <g id="ytick_14">
      <g id="line2d_115">
-      <path d="M 52.947 418.236617 
-L 848.448 418.236617 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+      <path d="M 52.947 418.162785 
+L 848.448 418.162785 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_118">
       <!-- -0.5 -->
-      <g style="fill: #262626" transform="translate(41.797 440.099117) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(41.797 440.025285) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-2d"/>
        <use xlink:href="#SimHei-30" x="50"/>
        <use xlink:href="#SimHei-2e" x="100"/>
@@ -4095,13 +4040,13 @@ L 848.448 418.236617
     </g>
     <g id="ytick_15">
      <g id="line2d_116">
-      <path d="M 52.947 389.881467 
-L 848.448 389.881467 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+      <path d="M 52.947 389.795588 
+L 848.448 389.795588 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
      </g>
      <g id="text_119">
       <!-- 0.0 -->
-      <g style="fill: #262626" transform="translate(41.797 405.143967) rotate(-90) scale(0.132 -0.132)">
+      <g style="fill: #262626" transform="translate(41.797 405.058088) rotate(-90) scale(0.132 -0.132)">
        <use xlink:href="#SimHei-30"/>
        <use xlink:href="#SimHei-2e" x="50"/>
        <use xlink:href="#SimHei-30" x="100"/>
@@ -4110,7 +4055,7 @@ L 848.448 389.881467
     </g>
     <g id="text_120">
      <!-- 人口增长数 -->
-     <g style="fill: #262626" transform="translate(26.922 522.103875) rotate(-90) scale(0.144 -0.144)">
+     <g style="fill: #262626" transform="translate(26.922 522.058875) rotate(-90) scale(0.144 -0.144)">
       <use xlink:href="#SimHei-4eba"/>
       <use xlink:href="#SimHei-53e3" x="100"/>
       <use xlink:href="#SimHei-589e" x="200"/>
@@ -4120,7 +4065,7 @@ L 848.448 389.881467
     </g>
     <g id="text_121">
      <!-- 1e6 -->
-     <g style="fill: #262626" transform="translate(52.947 377.181) scale(0.132 -0.132)">
+     <g style="fill: #262626" transform="translate(52.947 377.091) scale(0.132 -0.132)">
       <defs>
        <path id="SimHei-36" d="M 250 1612 
 Q 275 1975 387 2225 
@@ -4158,66 +4103,66 @@ z
    </g>
    <g id="PolyCollection_2"/>
    <g id="line2d_117">
-    <path d="M 89.106136 389.810352 
-L 103.864968 389.826288 
-L 118.623799 389.844095 
-L 133.38263 389.848008 
-L 148.141461 389.852545 
-L 162.900292 389.85521 
-L 177.659123 389.874435 
-L 192.417955 389.878575 
-L 207.176786 389.879993 
-L 221.935617 389.883962 
-L 236.694448 389.885664 
-L 251.453279 389.890597 
-L 266.21211 389.893376 
-L 280.970942 389.912714 
-L 295.729773 389.924964 
-L 310.488604 389.953602 
-L 325.247435 389.971693 
-L 340.006266 390.05381 
-L 354.765097 390.105189 
-L 369.523929 390.129972 
-L 384.28276 390.131333 
-L 399.041591 390.187192 
-L 413.800422 390.283883 
-L 428.559253 390.407625 
-L 443.318084 390.500573 
-L 458.076916 391.062516 
-L 472.835747 392.282581 
-L 487.594578 392.487305 
-L 502.353409 393.492949 
-L 517.11224 397.186377 
-L 531.871071 397.668812 
-L 546.629903 397.708226 
-L 561.388734 401.39638 
-L 576.147565 403.688327 
-L 590.906396 405.46041 
-L 605.665227 406.423805 
-L 620.424058 407.638936 
-L 635.18289 407.640184 
-L 649.941721 408.264338 
-L 664.700552 414.583623 
-L 679.459383 416.659787 
-L 694.218214 420.143558 
-L 708.977045 421.603054 
-L 723.735877 427.155106 
-L 738.494708 434.433873 
-L 753.253539 440.45163 
-L 768.01237 440.710682 
-L 782.771201 469.637019 
-L 797.530032 502.43508 
-L 812.288864 582.397398 
-" clip-path="url(#p8c000bac45)" style="fill: none; stroke: #4c72b0; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 89.106136 389.724443 
+L 103.864968 389.740386 
+L 118.623799 389.7582 
+L 133.38263 389.762115 
+L 148.141461 389.766654 
+L 162.900292 389.76932 
+L 177.659123 389.788553 
+L 192.417955 389.792695 
+L 207.176786 389.794113 
+L 221.935617 389.798084 
+L 236.694448 389.799786 
+L 251.453279 389.804722 
+L 266.21211 389.807502 
+L 280.970942 389.826849 
+L 295.729773 389.839103 
+L 310.488604 389.867754 
+L 325.247435 389.885853 
+L 340.006266 389.968004 
+L 354.765097 390.019405 
+L 369.523929 390.044198 
+L 384.28276 390.04556 
+L 399.041591 390.101443 
+L 413.800422 390.198175 
+L 428.559253 390.32197 
+L 443.318084 390.414957 
+L 458.076916 390.977139 
+L 472.835747 392.197722 
+L 487.594578 392.402533 
+L 502.353409 393.408604 
+L 517.11224 397.103602 
+L 531.871071 397.586241 
+L 546.629903 397.625672 
+L 561.388734 401.315393 
+L 576.147565 403.608314 
+L 590.906396 405.38115 
+L 605.665227 406.344954 
+L 620.424058 407.560602 
+L 635.18289 407.56185 
+L 649.941721 408.186269 
+L 664.700552 414.508239 
+L 679.459383 416.585285 
+L 694.218214 420.070535 
+L 708.977045 421.530652 
+L 723.735877 427.085062 
+L 738.494708 434.366921 
+L 753.253539 440.387235 
+L 768.01237 440.646398 
+L 782.771201 469.585023 
+L 797.530032 502.397019 
+L 812.288864 582.393307 
+" clip-path="url(#pfb96bee507)" style="fill: none; stroke: #4c72b0; stroke-width: 1.5; stroke-linecap: round"/>
    </g>
    <g id="patch_8">
     <path d="M 52.947 592.02675 
-L 52.947 380.181 
+L 52.947 380.091 
 " style="fill: none; stroke: #ffffff; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_9">
     <path d="M 848.448 592.02675 
-L 848.448 380.181 
+L 848.448 380.091 
 " style="fill: none; stroke: #ffffff; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_10">
@@ -4226,18 +4171,18 @@ L 848.448 592.02675
 " style="fill: none; stroke: #ffffff; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_11">
-    <path d="M 52.947 380.181 
-L 848.448 380.181 
+    <path d="M 52.947 380.091 
+L 848.448 380.091 
 " style="fill: none; stroke: #ffffff; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pdf621df4b3">
-   <rect x="52.947" y="27.912" width="795.501" height="211.84575"/>
+  <clipPath id="p317cf3f6d0">
+   <rect x="52.947" y="27.912" width="795.501" height="211.93575"/>
   </clipPath>
-  <clipPath id="p8c000bac45">
-   <rect x="52.947" y="380.181" width="795.501" height="211.84575"/>
+  <clipPath id="pfb96bee507">
+   <rect x="52.947" y="380.091" width="795.501" height="211.93575"/>
   </clipPath>
  </defs>
 </svg>
